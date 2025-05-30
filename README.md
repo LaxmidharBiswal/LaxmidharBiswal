@@ -38,7 +38,8 @@ Track your daily expenses with category-wise analytics.
 ## 📫 Contact Me
 - 📧 Email:alokbiswal546@gmail.com  
 - 🔗 [[LinkedIn](#) ](https://www.linkedin.com/in/laxmidhar-biswal-644b77363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- 🐙
+- 🐙 [GitHub](https://github.com/LaxmidharBiswal)
+
 ---
 
 ✨ *“Chant Hare Krishna and Be Happy”*
