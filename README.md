@@ -15,7 +15,9 @@ Motivated and detail-oriented Flutter developer with experience in building resp
 - 💾 SQLite, Firebase  
 - 🛠 Android Studio, VS Code  
 - 🗂 Git & GitHub  
-- 📡 REST APIs  
+- 📡 REST APIs
+- java
+- javascript 
 
 ---
 
